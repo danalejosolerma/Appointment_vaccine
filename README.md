@@ -1,4 +1,4 @@
-@author: dsolis
+@author: danalejosolerma
 
 # Bot to make an appointment for COVID-19 vaccine on doctolib
 
